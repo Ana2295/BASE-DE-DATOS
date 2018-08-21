@@ -1,0 +1,2 @@
+# BASE-DE-DATOS
+Base de datos de la empresa DTI NORMALIZADA EN LA SEGUNDA FORMA NORMAL 
